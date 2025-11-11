@@ -1,5 +1,7 @@
 Cách dùng
 ```bash
+pip install
+cd scripts
 python docx2lawjsonl.py "Luật Giao thông đường bộ 2025.docx" traffic_law_2025.jsonl
 ```
 
